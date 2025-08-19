@@ -83,8 +83,8 @@ ai-astrologer/
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/your-username/ai-astrologer.git
-cd ai-astrologer
+git clone https://github.com/saipy10/Vedaz-Assignment.git
+cd Vedaz-Assignment
 ````
 
 ### 2️⃣ Install Dependencies
@@ -101,6 +101,7 @@ Create a `.env.local` file in the root:
 
 ```env
 GEMINI_API_KEY=your_gemini_api_key_here
+ASTROLOGY_API_KEY=your_https://freeastrologyapi.com/_api_key_here
 ```
 
 ### 4️⃣ Run the Development Server
@@ -109,7 +110,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 npm run dev
 ```
 
-App will be running at: **[http://localhost:3000](http://localhost:3000)**
+App will be running at: **[https://vedaz-assignment.vercel.app/](https://vedaz-assignment.vercel.app/)**
 
 ---
 
@@ -140,12 +141,13 @@ App will be running at: **[http://localhost:3000](http://localhost:3000)**
 ## 📸 Screenshots
 
 ### 🟣 Chat Interface
+<img width="1361" height="679" alt="image" src="https://github.com/user-attachments/assets/efa5bb1a-c9a6-4484-bd24-5bd2d6ed941c" />
 
-*(screenshot here)*
 
 ### 🌌 Rāsi Chart
 
-*(screenshot here)*
+<img width="1350" height="673" alt="image" src="https://github.com/user-attachments/assets/c32e8649-ae79-4eec-910b-f09946c098ce" />
+
 
 ---
 
