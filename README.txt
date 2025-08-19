@@ -1,8 +1,3 @@
-Got it 👍 — here’s the full **`README.md` file** you can copy into your project root:
-
----
-
-```markdown
 # 🔮 AI Astrologer  
 
 An interactive astrology application built with **Next.js, Radix UI, TailwindCSS, and Gemini API**.  
